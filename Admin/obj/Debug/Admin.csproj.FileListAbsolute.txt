@@ -1,0 +1,6 @@
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\bin\Admin.dll.config
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\bin\Admin.dll
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\bin\Admin.pdb
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\obj\Debug\Admin.dll
+c:\users\abel\documents\visual studio 2013\Admin\Admin\Admin\obj\Debug\Admin.pdb
