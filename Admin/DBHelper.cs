@@ -23,7 +23,14 @@ namespace Admin.Classes
             //try
             //{
                 ds = new DataSet();
-                SqlConnection cn = new SqlConnection(ConfigurationManager.AppSettings.Get("connectionString"));
+
+                string myDbParams = ConfigurationManager.AppSettings.Get("connectionString");
+
+                Console.WriteLine("my dbparams="+myDbParams);
+
+                SqlConnection cn = new SqlConnection(myDbParams);
+
+                
                 SqlCommand cmd = new SqlCommand(sqlSpName, cn);
 				cmd.CommandTimeout = 600;
                 
